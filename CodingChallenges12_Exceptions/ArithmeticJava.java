@@ -1,4 +1,3 @@
-
 package OOP2_Coding_Challenges.CodingChallenge_12_Exceptions;
 
 public class ArithmeticJava {
