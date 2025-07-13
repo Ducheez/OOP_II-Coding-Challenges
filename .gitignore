@@ -1,0 +1,11 @@
+# Default ignored files
+.out/
+.idea/
+/shelf/
+src/OOP2_Lesson1
+src/OOP2_Lesson2
+.out/production/OOP 2/
+out/
+src/OOP2_Coding_Challenges
+src/
+*.iml
