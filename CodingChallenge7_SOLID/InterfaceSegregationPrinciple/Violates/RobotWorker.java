@@ -1,3 +1,4 @@
+
 package OOP2_Coding_Challenges.CodingChallenge7_SOLID.InterfaceSegregationPrinciple.Violates;
 
 class RobotWorker implements Worker {
