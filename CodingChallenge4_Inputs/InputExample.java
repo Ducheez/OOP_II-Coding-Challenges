@@ -1,4 +1,3 @@
-
 package OOP2_Coding_Challenges.CodingChallenge_4_Inputs;
 
 import java.util.Scanner;
