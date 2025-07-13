@@ -1,3 +1,4 @@
+
 package OOP2_Coding_Challenges.CodingChallenge_6_AbstractClassAndInterfaces;
 
 abstract public class Account{
