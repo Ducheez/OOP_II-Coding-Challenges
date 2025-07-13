@@ -1,3 +1,4 @@
+
 package OOP2_Coding_Challenges.CodingChallenge_6_AbstractClassAndInterfaces;
 
 public class User extends Account{
