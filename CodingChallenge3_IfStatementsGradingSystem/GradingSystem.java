@@ -1,3 +1,4 @@
+
 package OOP2_Coding_Challenges.CodingChallenge_3_IfStatementsGradingSystem;
 
 import java.util.Scanner;
