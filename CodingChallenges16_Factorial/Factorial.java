@@ -1,4 +1,3 @@
-
 package OOP2_Coding_Challenges.CodingChallenges16_Factorial;
 
 public class Factorial {
