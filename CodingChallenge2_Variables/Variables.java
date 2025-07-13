@@ -1,3 +1,4 @@
+
 package OOP2_Coding_Challenges.CodingChallenge_2_Variables;
 
 public class Variables {
