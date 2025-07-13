@@ -1,3 +1,4 @@
+
 package OOP2_Coding_Challenges.CodingChallenge_9_Random;
 
 import java.util.Random;
